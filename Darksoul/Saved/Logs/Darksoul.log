@@ -2884,3 +2884,877 @@ Script Stack (0 frames):
 [2022.03.11-13.06.04:830][540]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonCharacterDC113F984E122517A6E548AA067DB5E6.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2022.03.11-13.06.04:850][540]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2022.03.11-13.06.04:850][540]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.11-13.08.02:485][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.03.11-13.08.02:563][652]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonCharacter7CB46BF3495CC7F5FA6C5FBA3C2F7F81.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.11-13.08.02:586][652]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.11-13.08.02:587][652]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.11-13.08.05:662][  5]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.11-13.08.05:662][  5]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.08.05:662][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.08.06:395][ 69]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.11-13.08.06:395][ 69]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.08.06:395][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.08.25:863][252]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.11-13.08.25:883][252]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.11-13.08.29:782][712]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.03.11-13.08.29:794][712]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.11-13.08.37:811][270]LogSlate: Window 'New Level' being destroyed
+[2022.03.11-13.08.46:365][172]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2022.03.11-13.08.46:454][172]LogLinker: Warning: [AssetLog] C:\Users\game2\Desktop\Darksoul\Darksoul\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2022.03.11-13.08.46:454][172]LogLinker: Warning: [AssetLog] C:\Users\game2\Desktop\Darksoul\Darksoul\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2022.03.11-13.08.46:478][172]LogLinker: Warning: [AssetLog] C:\Users\game2\Desktop\Darksoul\Darksoul\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2022.03.11-13.08.46:480][172]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2022.03.11-13.08.46:480][172]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2022.03.11-13.08.46:487][172]LogLinker: Warning: [AssetLog] C:\Users\game2\Desktop\Darksoul\Darksoul\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2022.03.11-13.08.46:487][172]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2022.03.11-13.08.46:550][172]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.08.46:551][172]Cmd: MAP LOAD FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.11-13.08.46:551][172]LightingResults: New page: Lighting Build
+[2022.03.11-13.08.46:551][172]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2022.03.11-13.08.46:553][172]LogWorld: UWorld::CleanupWorld for Map_exo_10_03, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.08.46:554][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.08.46:554][172]MapCheck: New page: Map Check
+[2022.03.11-13.08.46:554][172]LightingResults: New page: Lighting Build
+[2022.03.11-13.08.46:579][172]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-13.08.46:729][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.03.11-13.08.46:732][172]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.08.46:781][172]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.11-13.08.46:781][172]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.08.46:817][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.11-13.08.46:829][172]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.11-13.08.46:829][172]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,135ms to complete.
+[2022.03.11-13.08.46:829][172]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.279
+[2022.03.11-13.08.49:537][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.11-13.09.18:690][541]Cmd: DELETE
+[2022.03.11-13.09.18:700][541]Cmd: ACTOR DELETE
+[2022.03.11-13.09.18:703][541]LogEditorActor: Deleted Actor: Character
+[2022.03.11-13.09.18:730][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.03.11-13.09.18:745][541]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.03.11-13.09.31:778][916]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.11-13.09.33:864][916]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.03.11-13.10.02:587][391]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.03.11-13.10.02:608][391]LogActorComponent: UnregisterComponent: (/Game/BP/BP_Foe.Default__BP_Foe_C:CollisionCylinder) Not registered. Aborting.
+[2022.03.11-13.10.02:608][391]LogActorComponent: UnregisterComponent: (/Game/BP/BP_Foe.Default__BP_Foe_C:CharMoveComp) Not registered. Aborting.
+[2022.03.11-13.10.02:608][391]LogActorComponent: UnregisterComponent: (/Game/BP/BP_Foe.Default__BP_Foe_C:CharacterMesh0) Not registered. Aborting.
+[2022.03.11-13.10.02:632][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.03.11-13.10.02:713][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Foe.BP_Foe
+[2022.03.11-13.10.11:352][929]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-13.11.27:535][413]LogSlate: Window 'BP_Foe' being destroyed
+[2022.03.11-13.11.28:649][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.03.11-13.11.28:727][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.11-13.11.28:748][541]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMapAA331C3A44706831D8D7E8AA58869DF3.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-13.11.28:766][541]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.080
+[2022.03.11-13.11.28:807][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_Foe.uasset" SILENT=true
+[2022.03.11-13.11.28:835][541]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_Foe463132B743AC7D7D324DC99EECF842B4.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_Foe.uasset'
+[2022.03.11-13.11.28:863][541]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.11.28:863][541]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.11.28:863][541]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Foe.BP_Foe
+[2022.03.11-13.11.32:886][  6]BlueprintLog: New page: Compile BP_Foe
+[2022.03.11-13.11.33:009][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2022.03.11-13.11.45:120][882]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.11-13.11.51:882][882]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.11-13.11.51:888][882]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.11-13.11.51:907][882]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.11-13.12.03:236][838]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_AI_Foe
+[2022.03.11-13.12.03:241][838]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.11-13.12.06:065][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_AI_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_AI_Foe.uasset" SILENT=true
+[2022.03.11-13.12.06:070][ 74]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_AI_Foe062A007E43C4D97EFA36DC8EE71124DE.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_AI_Foe.uasset'
+[2022.03.11-13.12.06:084][ 74]AssetCheck: New page: Asset Save: BP_AI_Foe
+[2022.03.11-13.12.06:084][ 74]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_AI_Foe.BP_AI_Foe
+[2022.03.11-13.12.15:600][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_AI_Foe.BP_AI_Foe
+[2022.03.11-13.12.35:660][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.03.11-13.12.35:725][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.11-13.12.35:747][121]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap6B5C764A4D25C4F11DD157A6B7056BF4.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-13.12.35:767][121]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.084
+[2022.03.11-13.12.35:767][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_AI_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_AI_Foe.uasset" SILENT=true
+[2022.03.11-13.12.35:772][121]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_AI_Foe359B2658497AF958194099817639FD79.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_AI_Foe.uasset'
+[2022.03.11-13.12.35:788][121]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.12.35:788][121]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.12.35:788][121]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_AI_Foe.BP_AI_Foe
+[2022.03.11-13.12.36:855][244]BlueprintLog: New page: Compile BP_AI_Foe
+[2022.03.11-13.12.36:902][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.03.11-13.12.46:816][394]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-13.12.52:417][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.03.11-13.12.52:467][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.11-13.12.52:483][ 42]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap26CB8528402442A4FD65328E24A6C18F.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-13.12.52:501][ 42]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.068
+[2022.03.11-13.12.52:519][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_Foe.uasset" SILENT=true
+[2022.03.11-13.12.52:542][ 42]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_Foe081309D44F581A3A272956B94D0E4199.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_Foe.uasset'
+[2022.03.11-13.12.52:560][ 42]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.12.52:560][ 42]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.12.52:560][ 42]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Foe.BP_Foe
+[2022.03.11-13.12.55:042][339]BlueprintLog: New page: Compile BP_Foe
+[2022.03.11-13.12.55:184][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.11-13.13.10:766][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2022.03.11-13.13.10:825][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.11-13.13.10:841][135]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap3C79F4F747D90E700ACB79A4EF682856.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-13.13.10:856][135]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.072
+[2022.03.11-13.13.10:856][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_AI_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_AI_Foe.uasset" SILENT=true
+[2022.03.11-13.13.10:863][135]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_AI_FoeE0ACB2874CAB2C1578D018BAA7F371E4.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_AI_Foe.uasset'
+[2022.03.11-13.13.10:876][135]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.13.10:876][135]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.13.10:876][135]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_AI_Foe.BP_AI_Foe
+[2022.03.11-13.13.12:031][271]BlueprintLog: New page: Compile BP_AI_Foe
+[2022.03.11-13.13.12:072][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.03.11-13.13.36:467][931]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.11-13.13.42:363][289]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.11-13.13.42:367][289]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.11-13.13.54:442][399]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.11-13.13.54:484][399]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.11-13.13.56:109][548]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2022.03.11-13.13.56:109][548]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.BP_Foe:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.SKEL_BP_Foe_C' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.BP_Foe_C' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.BP_Foe:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.BP_Foe:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.BP_Foe:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.SKEL_BP_Foe_C:UserConstructionScript' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.SKEL_BP_Foe_C:ReceiveTick' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.SKEL_BP_Foe_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:214][118]LogMetaData: Removing '/Game/BP/AI/BP_Foe.SKEL_BP_Foe_C:ReceiveBeginPlay' ref from Metadata '/Game/BP/BP_Foe.PackageMetaData'
+[2022.03.11-13.14.03:217][118]LogMetaData: Removing '/Game/BP/AI/BP_AI_Foe.BP_AI_Foe:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/BP_AI_Foe.PackageMetaData'
+[2022.03.11-13.14.03:217][118]LogMetaData: Removing '/Game/BP/AI/BP_AI_Foe.SKEL_BP_AI_Foe_C' ref from Metadata '/Game/BP/BP_AI_Foe.PackageMetaData'
+[2022.03.11-13.14.03:217][118]LogMetaData: Removing '/Game/BP/AI/BP_AI_Foe.BP_AI_Foe_C' ref from Metadata '/Game/BP/BP_AI_Foe.PackageMetaData'
+[2022.03.11-13.14.03:217][118]LogMetaData: Removing '/Game/BP/AI/BP_AI_Foe.BP_AI_Foe:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/BP_AI_Foe.PackageMetaData'
+[2022.03.11-13.14.03:217][118]LogMetaData: Removing '/Game/BP/AI/BP_AI_Foe.BP_AI_Foe_C:ReceiveBeginPlay' ref from Metadata '/Game/BP/BP_AI_Foe.PackageMetaData'
+[2022.03.11-13.14.03:217][118]LogMetaData: Removing '/Game/BP/AI/BP_AI_Foe.SKEL_BP_AI_Foe_C:UserConstructionScript' ref from Metadata '/Game/BP/BP_AI_Foe.PackageMetaData'
+[2022.03.11-13.14.03:217][118]LogMetaData: Removing '/Game/BP/AI/BP_AI_Foe.SKEL_BP_AI_Foe_C:ReceiveBeginPlay' ref from Metadata '/Game/BP/BP_AI_Foe.PackageMetaData'
+[2022.03.11-13.14.03:259][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/BP_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_Foe.uasset" SILENT=true
+[2022.03.11-13.14.03:290][118]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_Foe45DC0E1D40DED33CDD10F8ACBC929E4D.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_Foe.uasset'
+[2022.03.11-13.14.03:291][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_Foe.uasset" SILENT=true
+[2022.03.11-13.14.03:294][118]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_Foe61215FD04D1401A95D67D5A2862AC474.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/BP_Foe.uasset'
+[2022.03.11-13.14.03:295][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/BP_AI_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_AI_Foe.uasset" SILENT=true
+[2022.03.11-13.14.03:300][118]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_AI_FoeABC8C73E4496E56D49ED36995D3119F8.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_AI_Foe.uasset'
+[2022.03.11-13.14.03:407][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.03.11-13.14.03:468][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.11-13.14.03:497][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.11-13.14.03:551][118]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.14.03:551][118]LogContentValidation: Display: Validating ObjectRedirector /Game/BP/BP_Foe.BP_Foe
+[2022.03.11-13.14.03:551][118]LogContentValidation: Display: Validating ObjectRedirector /Game/BP/BP_Foe.Default__BP_Foe_C
+[2022.03.11-13.14.03:551][118]LogContentValidation: Display: Validating ObjectRedirector /Game/BP/BP_Foe.BP_Foe_C
+[2022.03.11-13.14.03:551][118]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/BP_AI_Foe.BP_AI_Foe
+[2022.03.11-13.14.03:551][118]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/BP_Foe.BP_Foe
+[2022.03.11-13.14.12:739][814]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2022.03.11-13.14.12:755][814]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2022.03.11-13.14.24:744][  8]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> IA_BehaviorTree
+[2022.03.11-13.14.24:759][  8]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2022.03.11-13.14.28:354][365]LogContentBrowser: Attempting asset rename: IA_BehaviorTree -> AI_BehaviorTree
+[2022.03.11-13.14.28:399][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.14.28:401][365]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTree3F435DCB42F6ABCE56DB8D829A41A37C.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.14.28:486][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.11-13.14.28:532][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.03.11-13.14.28:561][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.11-13.14.28:599][365]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.03.11-13.14.28:599][365]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.14.31:734][649]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.18.26:593][662]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2022.03.11-13.18.26:612][662]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2022.03.11-13.18.30:902][ 81]LogContentBrowser: Attempting asset rename: NewBlackboardData -> AI_BlackBoard
+[2022.03.11-13.18.30:914][ 81]LogContentBrowser: End creating deferred item NewBlackboardData
+[2022.03.11-13.18.32:504][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BlackBoard" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BlackBoard.uasset" SILENT=true
+[2022.03.11-13.18.32:508][237]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BlackBoardA9C028D24276F4109492959D0CF18BE1.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BlackBoard.uasset'
+[2022.03.11-13.18.32:510][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.18.32:514][237]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTreeA24C7DE24ACD63598EDE8E827A6557B4.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.18.32:534][237]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.18.32:534][237]LogContentValidation: Display: Validating BlackboardData /Game/BP/AI/AI_BlackBoard.AI_BlackBoard
+[2022.03.11-13.18.32:534][237]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.18.49:553][162]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2022.03.11-13.18.51:059][162]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-13.18.51:158][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.03.11-13.18.51:196][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.03.11-13.18.51:226][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.11-13.19.03:215][460]LogSlate: Window 'Save Asset As' being destroyed
+[2022.03.11-13.19.19:334][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-13.20.41:315][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2022.03.11-13.20.41:659][160]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/BP/AI/BTTask_BlueprintBase_New.
+[2022.03.11-13.20.51:097][271]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.20.51:098][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.20.55:177][743]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2022.03.11-13.20.55:249][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.03.11-13.20.55:269][743]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap57DDE01342375CDF4D5E5F8F3CE15062.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-13.20.55:285][743]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.083
+[2022.03.11-13.20.55:285][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.20.55:290][743]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTreeF868B5F64CFE3C82B0F3648D031304EE.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.20.55:290][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BlackBoard" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BlackBoard.uasset" SILENT=true
+[2022.03.11-13.20.55:294][743]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BlackBoard9AC69B0B499C5AB30041E099BFD50725.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BlackBoard.uasset'
+[2022.03.11-13.20.55:295][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/BTTask_BlueprintBase_New" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BTTask_BlueprintBase_New.uasset" SILENT=true
+[2022.03.11-13.20.55:298][743]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BTTask_BlueprintBase_New1E3666EE410A3CC6064F258CC24B409B.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BTTask_BlueprintBase_New.uasset'
+[2022.03.11-13.20.55:314][743]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/BP/AI/BTTask_BlueprintBase_New.
+[2022.03.11-13.20.55:325][743]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.20.55:325][743]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.20.55:325][743]LogContentValidation: Display: Validating BlackboardData /Game/BP/AI/AI_BlackBoard.AI_BlackBoard
+[2022.03.11-13.20.55:325][743]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2022.03.11-13.20.55:325][743]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.20.56:988][942]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-13.21.18:146][460]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-13.21.18:146][460]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/AI/BTTask_BlueprintBase_New1.BTTask_BlueprintBase_New1
+[2022.03.11-13.21.18:430][460]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/BP/AI/BTTask_BlueprintBase_New1.
+[2022.03.11-13.21.37:063][540]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2022.03.11-13.21.38:438][540]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-13.21.38:554][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.03.11-13.21.38:603][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.11-13.21.38:641][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.11-13.21.43:336][963]LogContentBrowser: Attempting asset rename: BTTask_BlueprintBase_New1 -> TEST
+[2022.03.11-13.21.43:350][963]LogMetaData: Removing '/Game/BP/AI/TEST.SKEL_TEST_C' ref from Metadata '/Game/BP/AI/BTTask_BlueprintBase_New1.PackageMetaData'
+[2022.03.11-13.21.43:350][963]LogMetaData: Removing '/Game/BP/AI/TEST.TEST_C' ref from Metadata '/Game/BP/AI/BTTask_BlueprintBase_New1.PackageMetaData'
+[2022.03.11-13.21.43:367][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/TEST" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset" SILENT=true
+[2022.03.11-13.21.43:370][963]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/TESTE7C247444E2CCB5DA568CB9A00A286D3.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset'
+[2022.03.11-13.21.43:498][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.03.11-13.21.43:554][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.03.11-13.21.43:595][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.11-13.21.43:625][963]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/BP/AI/TEST.
+[2022.03.11-13.21.43:635][963]AssetCheck: New page: Asset Save: TEST
+[2022.03.11-13.21.43:635][963]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/TEST.TEST
+[2022.03.11-13.21.49:250][582]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-13.25.22:215][696]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2022.03.11-13.25.22:238][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/TEST" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset" SILENT=true
+[2022.03.11-13.25.22:247][696]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/TEST42BAAB224AF5A18F7F6A79836C594461.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset'
+[2022.03.11-13.25.22:261][696]AssetCheck: New page: Asset Save: TEST
+[2022.03.11-13.25.22:261][696]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/TEST.TEST
+[2022.03.11-13.26.29:586][968]Cmd: TRANSACTION UNDO
+[2022.03.11-13.26.29:586][968]LogEditorTransaction: Undo Move Actors
+[2022.03.11-13.26.32:134][200]Cmd: TRANSACTION UNDO
+[2022.03.11-13.26.32:134][200]LogEditorTransaction: Undo Move Actors
+[2022.03.11-13.30.55:186][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.03.11-13.30.55:210][345]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap_Auto21B095D8E4B386F1F0E92EF923A363039.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.03.11-13.30.55:212][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.080
+[2022.03.11-13.30.55:212][345]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2022.03.11-13.31.29:074][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.03.11-13.31.29:101][ 80]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap481C42534B6D4EFDE86BCAA5F0F5590B.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-13.31.29:144][ 80]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.03.11-13.31.29:144][ 80]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.32.42:632][666]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2022.03.11-13.32.42:653][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/TEST" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset" SILENT=true
+[2022.03.11-13.32.42:661][666]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/TESTC2F40A664977D5C102B7368EDB513449.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset'
+[2022.03.11-13.32.42:677][666]AssetCheck: New page: Asset Save: TEST
+[2022.03.11-13.32.42:677][666]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/TEST.TEST
+[2022.03.11-13.35.44:872][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.03.11-13.35.44:888][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/TEST" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset" SILENT=true
+[2022.03.11-13.35.44:901][428]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/TESTA375C201405DF3B072E26995795FAAAE.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset'
+[2022.03.11-13.35.44:920][428]AssetCheck: New page: Asset Save: TEST
+[2022.03.11-13.35.44:921][428]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/TEST.TEST
+[2022.03.11-13.36.01:767][400]BlueprintLog: New page: Compile TEST
+[2022.03.11-13.36.01:819][400]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.03.11-13.36.07:115][997]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2022.03.11-13.36.07:141][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.36.07:147][997]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTreeC6D2E4B14DCEA6F1FBCA2C92E185CC4B.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.36.07:149][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/TEST" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset" SILENT=true
+[2022.03.11-13.36.07:166][997]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/TEST73A10E3643EFF458EDC9E59BE701FE93.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset'
+[2022.03.11-13.36.07:183][997]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.36.07:183][997]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.36.07:183][997]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/TEST.TEST
+[2022.03.11-13.36.07:494][ 31]BlueprintLog: New page: Compile TEST
+[2022.03.11-13.36.07:550][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.03.11-13.38.23:695][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.03.11-13.38.23:726][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.38.23:733][293]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTreeAADFED5B4055D3B5CD1456B54AB22C24.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.38.23:735][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/TEST" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset" SILENT=true
+[2022.03.11-13.38.23:760][293]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/TEST9E4088C34048AD39B9BB0EB639339A73.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/TEST.uasset'
+[2022.03.11-13.38.23:784][293]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.38.23:784][293]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.38.23:784][293]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/TEST.TEST
+[2022.03.11-13.38.24:194][342]BlueprintLog: New page: Compile TEST
+[2022.03.11-13.38.24:251][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.03.11-13.39.10:108][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.03.11-13.39.10:120][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.39.10:125][767]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTree951996FF45491BB74D8C61AB4CADD3C0.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.39.10:137][767]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.03.11-13.39.10:138][767]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.39.18:307][713]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-13.41.10:722][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.03.11-13.41.10:741][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.41.10:748][147]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTreeFF8F442F480E43C2FF5367AEE074F607.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.41.10:762][147]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.03.11-13.41.10:762][147]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.41.21:044][317]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.41.21:055][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.41.21:055][317]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:41:21)
+[2022.03.11-13.41.21:085][317]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.41.21:105][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019062s)
+[2022.03.11-13.41.21:106][317]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.41.21:106][317]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2022.03.11-13.41.21:106][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021001s)
+[2022.03.11-13.41.21:153][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.11-13.41.21:155][317]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.11-13.41.21:155][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.41.21:155][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.41.21:155][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.41.21:155][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.41.21:155][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.41.21:155][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.41.21:155][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.41.21:155][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.41.21:156][317]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.41.21:156][317]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.41.21:156][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.41.21:156][317]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.41.21:158][317]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.41.21:158][317]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.41.21:177][317]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.41.21:177][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.41.21:177][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.41.21:177][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.41.21:178][317]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.41.21:178][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.41.21:178][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.41.21:180][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.41.21:180][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.41.21:180][317]LogInit: FAudioDevice initialized.
+[2022.03.11-13.41.21:180][317]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.41.21:197][317]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.41.21:203][317]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.41.21
+[2022.03.11-13.41.21:205][317]LogWorld: Bringing up level for play took: 0.005979
+[2022.03.11-13.41.21:205][317]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.03.11-13.41.21:210][317]PIE: Server logged in
+[2022.03.11-13.41.21:212][317]PIE: Play in editor total start time 0,161 seconds.
+[2022.03.11-13.41.31:726][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.41.31:726][523]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.41.31:726][523]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.41.31:727][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.41.31:748][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.41.31:777][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.41.31:833][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.41.31:833][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.41.31:834][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.41.31:845][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.11-13.41.31:912][524]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.03.11-13.43.20:478][314]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.43.20:487][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.43.20:488][314]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:43:20)
+[2022.03.11-13.43.20:488][314]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.43.20:502][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014419s)
+[2022.03.11-13.43.20:503][314]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.43.20:503][314]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2022.03.11-13.43.20:504][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015797s)
+[2022.03.11-13.43.20:545][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.03.11-13.43.20:549][314]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.03.11-13.43.20:549][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.43.20:549][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.43.20:549][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.43.20:549][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.43.20:549][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.43.20:549][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.43.20:549][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.43.20:549][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.43.20:550][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.43.20:550][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.43.20:550][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.43.20:550][314]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.43.20:552][314]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.43.20:552][314]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.43.20:566][314]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.43.20:566][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.43.20:566][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.43.20:566][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.43.20:567][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.43.20:567][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.43.20:567][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.43.20:569][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.43.20:569][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.43.20:569][314]LogInit: FAudioDevice initialized.
+[2022.03.11-13.43.20:569][314]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.43.20:577][314]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.43.20:580][314]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.43.20
+[2022.03.11-13.43.20:580][314]LogWorld: Bringing up level for play took: 0.002203
+[2022.03.11-13.43.20:581][314]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.03.11-13.43.20:583][314]PIE: Server logged in
+[2022.03.11-13.43.20:585][314]PIE: Play in editor total start time 0,1 seconds.
+[2022.03.11-13.43.27:816][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.43.27:816][145]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.43.27:816][145]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.43.27:817][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.43.27:839][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.43.27:873][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.43.27:927][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.43.27:927][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.43.27:929][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.43.27:938][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.03.11-13.43.27:995][146]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.03.11-13.44.11:194][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2022.03.11-13.44.11:224][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/BP_AI_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_AI_Foe.uasset" SILENT=true
+[2022.03.11-13.44.11:237][ 69]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_AI_Foe0DB103804E4B07545CCB3AB7C7CEF2E3.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_AI_Foe.uasset'
+[2022.03.11-13.44.11:255][ 69]AssetCheck: New page: Asset Save: BP_AI_Foe
+[2022.03.11-13.44.11:255][ 69]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/BP_AI_Foe.BP_AI_Foe
+[2022.03.11-13.44.12:960][257]BlueprintLog: New page: Compile BP_AI_Foe
+[2022.03.11-13.44.13:013][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.11-13.44.51:790][670]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.44.51:802][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.44.51:802][670]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:44:51)
+[2022.03.11-13.44.51:835][670]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.44.51:848][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012662s)
+[2022.03.11-13.44.51:849][670]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.44.51:850][670]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2022.03.11-13.44.51:850][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014141s)
+[2022.03.11-13.44.51:901][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.03.11-13.44.51:905][670]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.03.11-13.44.51:905][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.44.51:905][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.44.51:905][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.44.51:905][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.44.51:905][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.44.51:905][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.44.51:905][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.44.51:905][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.44.51:906][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.44.51:906][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.44.51:906][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.44.51:906][670]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.44.51:908][670]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.44.51:908][670]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.44.51:921][670]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.44.51:921][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.44.51:921][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.44.51:921][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.44.51:922][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.44.51:922][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.44.51:922][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.44.51:924][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.44.51:924][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.44.51:924][670]LogInit: FAudioDevice initialized.
+[2022.03.11-13.44.51:924][670]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.44.51:936][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.44.51:938][670]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.44.51
+[2022.03.11-13.44.51:939][670]LogWorld: Bringing up level for play took: 0.002279
+[2022.03.11-13.44.51:939][670]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.03.11-13.44.51:956][670]PIE: Server logged in
+[2022.03.11-13.44.51:958][670]PIE: Play in editor total start time 0,16 seconds.
+[2022.03.11-13.45.00:695][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.45.00:695][672]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.45.00:707][672]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.45.00:708][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.45.00:731][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.45.00:768][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.45.00:814][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.45.00:814][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.45.00:816][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.45.00:823][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.11-13.45.00:876][673]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.03.11-13.45.44:510][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.45.44:519][777]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTreeEFF3A92446A45A6C698994AB0C23887B.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.45.44:542][777]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.03.11-13.45.44:543][777]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.45.45:836][898]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.45.45:847][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.45.45:847][898]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:45:45)
+[2022.03.11-13.45.45:847][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.45.45:861][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013401s)
+[2022.03.11-13.45.45:862][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.45.45:862][898]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2022.03.11-13.45.45:862][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014972s)
+[2022.03.11-13.45.45:904][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.11-13.45.45:906][898]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.45.45:906][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.45.45:906][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.45.45:906][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.45.45:906][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.45.45:906][898]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.45.45:909][898]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.45.45:909][898]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.45.45:922][898]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.45.45:922][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.45.45:922][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.45.45:922][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.45.45:922][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.45.45:923][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.45.45:923][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.45.45:924][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.45.45:924][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.45.45:924][898]LogInit: FAudioDevice initialized.
+[2022.03.11-13.45.45:924][898]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.45.45:942][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.45.45:946][898]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.45.45
+[2022.03.11-13.45.45:947][898]LogWorld: Bringing up level for play took: 0.004127
+[2022.03.11-13.45.45:947][898]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.03.11-13.45.45:953][898]PIE: Server logged in
+[2022.03.11-13.45.45:955][898]PIE: Play in editor total start time 0,111 seconds.
+[2022.03.11-13.46.02:545][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.46.02:545][814]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.46.02:546][814]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.46.02:547][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.46.02:565][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.46.02:604][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.46.02:651][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.46.02:652][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.46.02:654][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.46.02:662][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.11-13.46.02:714][815]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.03.11-13.48.43:543][524]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.48.43:553][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.48.43:553][524]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:48:43)
+[2022.03.11-13.48.43:575][524]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.48.43:589][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014230s)
+[2022.03.11-13.48.43:590][524]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.48.43:591][524]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2022.03.11-13.48.43:591][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015980s)
+[2022.03.11-13.48.43:638][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.11-13.48.43:641][524]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.03.11-13.48.43:641][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.48.43:641][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.48.43:641][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.48.43:641][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.48.43:641][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.48.43:641][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.48.43:641][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.48.43:641][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.48.43:642][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.48.43:642][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.48.43:642][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.48.43:642][524]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.48.43:647][524]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.48.43:647][524]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.48.43:679][524]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.48.43:680][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.48.43:680][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.48.43:680][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.48.43:680][524]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.48.43:681][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.48.43:681][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.48.43:682][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.48.43:682][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.48.43:682][524]LogInit: FAudioDevice initialized.
+[2022.03.11-13.48.43:682][524]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.48.43:694][524]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.48.43:698][524]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.48.43
+[2022.03.11-13.48.43:699][524]LogWorld: Bringing up level for play took: 0.004158
+[2022.03.11-13.48.43:700][524]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.03.11-13.48.43:706][524]PIE: Server logged in
+[2022.03.11-13.48.43:708][524]PIE: Play in editor total start time 0,159 seconds.
+[2022.03.11-13.48.53:545][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.48.53:545][665]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.48.53:546][665]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.48.53:546][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.48.53:562][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.48.53:603][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.48.53:647][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.48.53:647][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.48.53:649][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.48.53:657][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.03.11-13.48.53:712][666]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.03.11-13.48.54:899][773]MapCheck: New page: Map Check
+[2022.03.11-13.48.54:909][773]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.11-13.48.54:909][773]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.11-13.48.54:932][773]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.03.11-13.48.54:947][773]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.11-13.48.54:947][773]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.11-13.48.54:947][773]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.11-13.48.54:947][773]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.11-13.48.54:953][773]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2022.03.11-13.48.55:007][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.03.11-13.48.55:017][773]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2022.03.11-13.48.55:022][773]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.03.11-13.48.55:065][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.11-13.48.55:071][773]LightingResults: New page: Lighting Build - 11 mars 2022 à 15:48:55
+[2022.03.11-13.48.55:109][773]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.11-13.48.55:177][773]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.11-13.48.55:198][773]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.11-13.48.55:714][773]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.11-13.48.55:714][773]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9100
+[2022.03.11-13.49.09:942][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.11-13.49.09:943][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.11-13.49.09:943][773]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.11-13.49.09:943][773]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.11-13.49.09:943][773]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.11-13.49.10:194][773]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.11-13.49.10:194][773]MapCheck: New page: ThirdPersonExampleMap - 11 mars 2022 à 15:49:10
+[2022.03.11-13.49.10:194][773]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2022.03.11-13.49.10:194][773]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,515ms to complete.
+[2022.03.11-13.49.10:199][773]LogEditorBuildUtils: Build time 0:15
+[2022.03.11-13.49.10:545][773]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.11-13.49.10:546][773]LogShaderCompilers: Display: Total job queries 49, among them cache hits 21 (42.86%)
+[2022.03.11-13.49.10:546][773]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 14 distinct outputs (77.78%)
+[2022.03.11-13.49.10:546][773]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.03.11-13.49.10:546][773]LogShaderCompilers: Display: ================================================
+[2022.03.11-13.49.10:932][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.03.11-13.49.10:958][774]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap_Auto3BA20F4E041B732CB809BE2BA071A4380.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.03.11-13.49.10:961][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.132
+[2022.03.11-13.49.10:961][774]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.132
+[2022.03.11-13.49.11:090][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.03.11-13.49.18:493][308]Job is a success!
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:          1: 8.9% covering 6.2% of volume
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.11-13.49.18:649][309]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 45 bricks 	 100.0% (Persistent Level)
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.11-13.49.18:852][309]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.11-13.49.18:852][309]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 512X256)
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 64X32)
+[2022.03.11-13.49.18:852][309]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2022.03.11-13.49.18:852][309]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2022.03.11-13.49.19:051][309]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2022.03.11-13.49.19:083][309]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2022.03.11-13.49.19:109][309]Lightmass on TLSS2313: 7.39 sec total, 4.77 sec importing, 2 ms setup, 619 ms photons, 1.94 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 21.3 sec total, 3.69 sec processing.
+[2022.03.11-13.49.19:109][309]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2022.03.11-13.49.19:153][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.03.11-13.49.19:175][309]LogStaticLightingSystem: Illumination: 24.0 sec (196 ms encoding lightmaps, 205 ms encoding shadowmaps)
+[2022.03.11-13.49.19:175][309]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.03.11-13.49.19:175][309]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.11-13.49.19:948][309]DumpUnbuiltLightIteractions
+[2022.03.11-13.49.19:948][309]Lights with unbuilt interactions: 0
+[2022.03.11-13.49.19:948][309]
+[2022.03.11-13.49.19:948][309]Primitives with unbuilt interactions: 0
+[2022.03.11-13.49.20:060][309]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.03.11-13.49.20:101][310]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.11-13.49.20:101][310]MapCheck: New page: ThirdPersonExampleMap - 11 mars 2022 à 15:49:20
+[2022.03.11-13.49.20:102][310]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,465ms to complete.
+[2022.03.11-13.49.24:178][729]LogSlate: Window 'Message Log' being destroyed
+[2022.03.11-13.49.24:184][729]LogSlate: Window 'Message Log' being destroyed
+[2022.03.11-13.51.19:695][417]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.51.19:706][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.51.19:706][417]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:51:19)
+[2022.03.11-13.51.19:706][417]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.51.19:720][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013545s)
+[2022.03.11-13.51.19:721][417]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.51.19:721][417]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2022.03.11-13.51.19:722][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015097s)
+[2022.03.11-13.51.19:770][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.03.11-13.51.19:774][417]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.03.11-13.51.19:774][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.51.19:774][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.51.19:774][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.51.19:774][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.51.19:774][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.51.19:775][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.51.19:775][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.51.19:775][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.51.19:775][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.51.19:775][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.51.19:775][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.51.19:775][417]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.51.19:778][417]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.51.19:778][417]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.51.19:797][417]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.51.19:798][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.51.19:798][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.51.19:798][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.51.19:798][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.51.19:798][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.51.19:798][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.51.19:800][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.51.19:800][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.51.19:800][417]LogInit: FAudioDevice initialized.
+[2022.03.11-13.51.19:800][417]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.51.19:843][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.51.19:844][417]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.51.19:849][417]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.51.19
+[2022.03.11-13.51.19:850][417]LogWorld: Bringing up level for play took: 0.005183
+[2022.03.11-13.51.19:851][417]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.03.11-13.51.19:862][417]PIE: Server logged in
+[2022.03.11-13.51.19:863][417]PIE: Play in editor total start time 0,16 seconds.
+[2022.03.11-13.51.22:755][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.51.22:755][726]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.51.22:756][726]LogSlate: Window 'Darksoul Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.11-13.51.22:767][726]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.51.22:768][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.51.22:787][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.51.22:826][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.51.22:879][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.51.22:881][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.51.22:890][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.03.11-13.51.22:914][727]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.03.11-13.51.38:010][459]BlueprintLog: New page: Compile BP_Foe
+[2022.03.11-13.51.38:099][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.03.11-13.51.39:717][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.03.11-13.51.39:809][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.11-13.51.39:825][640]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap784F7B2449C8438B0BC5D89B75BA10EC.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.11-13.51.39:839][640]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.096
+[2022.03.11-13.51.39:921][640]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/ThirdPersonExampleMap_BuiltData24D6CDE04B4486A84F643C88CEE04B3D.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.11-13.51.39:930][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/BP_Foe" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_Foe.uasset" SILENT=true
+[2022.03.11-13.51.39:939][640]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/BP_FoeB5F45C1042EB13EC9DD4FB86EE742A86.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/BP_Foe.uasset'
+[2022.03.11-13.51.39:954][640]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-13.51.39:954][640]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.11-13.51.39:954][640]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-13.51.39:954][640]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/BP_Foe.BP_Foe
+[2022.03.11-13.51.42:592][911]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.51.42:602][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.51.42:602][911]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:51:42)
+[2022.03.11-13.51.42:625][911]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.51.42:647][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022267s)
+[2022.03.11-13.51.42:650][911]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.51.42:650][911]LogPlayLevel: PIE: World Init took: (0.002521s)
+[2022.03.11-13.51.42:650][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025178s)
+[2022.03.11-13.51.42:715][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.11-13.51.42:717][911]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.03.11-13.51.42:717][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.51.42:717][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.51.42:717][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.51.42:717][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.51.42:717][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.51.42:717][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.51.42:717][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.51.42:717][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.51.42:718][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.51.42:718][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.51.42:718][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.51.42:718][911]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.51.42:720][911]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.51.42:720][911]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.51.42:733][911]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.51.42:734][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.51.42:734][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.51.42:734][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.51.42:734][911]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.51.42:734][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.51.42:734][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.51.42:736][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.51.42:736][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.51.42:736][911]LogInit: FAudioDevice initialized.
+[2022.03.11-13.51.42:736][911]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.51.42:753][911]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.51.42:758][911]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.51.42
+[2022.03.11-13.51.42:759][911]LogWorld: Bringing up level for play took: 0.004232
+[2022.03.11-13.51.42:759][911]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.03.11-13.51.42:766][911]PIE: Server logged in
+[2022.03.11-13.51.42:768][911]PIE: Play in editor total start time 0,169 seconds.
+[2022.03.11-13.51.57:445][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.51.57:445][616]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.51.57:445][616]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.51.57:446][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.51.57:465][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.51.57:492][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.51.57:551][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-13.51.57:551][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.51.57:552][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.51.57:556][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.51.57:562][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.03.11-13.51.57:612][617]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.03.11-13.52.03:561][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-13.52.03:577][280]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTreeD96071954AE222A7313F6E84AD2DD8BB.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-13.52.03:602][280]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.03.11-13.52.03:603][280]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
+[2022.03.11-13.52.05:277][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.03.11-13.52.06:421][581]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.52.06:431][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.52.06:431][581]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:52:06)
+[2022.03.11-13.52.06:455][581]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.52.06:468][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012699s)
+[2022.03.11-13.52.06:469][581]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.52.06:469][581]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2022.03.11-13.52.06:469][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014192s)
+[2022.03.11-13.52.06:524][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.03.11-13.52.06:524][581]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.52.06:525][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.52.06:525][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.52.06:525][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.52.06:525][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.52.06:525][581]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.52.06:528][581]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.52.06:528][581]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.52.06:541][581]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.52.06:541][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.52.06:541][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.52.06:541][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.52.06:542][581]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.52.06:542][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.52.06:542][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.52.06:543][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.52.06:543][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.52.06:543][581]LogInit: FAudioDevice initialized.
+[2022.03.11-13.52.06:543][581]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.52.06:551][581]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.52.06:553][581]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.52.06
+[2022.03.11-13.52.06:554][581]LogWorld: Bringing up level for play took: 0.002228
+[2022.03.11-13.52.06:554][581]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.03.11-13.52.06:558][581]PIE: Server logged in
+[2022.03.11-13.52.06:559][581]PIE: Play in editor total start time 0,132 seconds.
+[2022.03.11-13.52.37:565][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.52.37:565][163]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.52.37:566][163]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.52.37:567][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.52.37:587][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.52.37:628][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.52.37:691][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.52.37:692][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.52.37:693][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.52.37:706][163]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.03.11-13.52.37:762][164]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.03.11-13.56.37:017][570]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-13.56.37:028][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-13.56.37:028][570]PIE: New page: PIE session: ThirdPersonExampleMap (11 mars 2022 à 15:56:37)
+[2022.03.11-13.56.37:028][570]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.56.37:043][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014981s)
+[2022.03.11-13.56.37:044][570]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.11-13.56.37:045][570]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2022.03.11-13.56.37:045][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016554s)
+[2022.03.11-13.56.37:098][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.03.11-13.56.37:099][570]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.03.11-13.56.37:099][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-13.56.37:099][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-13.56.37:100][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-13.56.37:100][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-13.56.37:100][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-13.56.37:100][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-13.56.37:100][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-13.56.37:100][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-13.56.37:100][570]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-13.56.37:100][570]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-13.56.37:100][570]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-13.56.37:100][570]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-13.56.37:104][570]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-13.56.37:104][570]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-13.56.37:124][570]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.03.11-13.56.37:125][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-13.56.37:125][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-13.56.37:125][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-13.56.37:128][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-13.56.37:128][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-13.56.37:128][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-13.56.37:130][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-13.56.37:130][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-13.56.37:130][570]LogInit: FAudioDevice initialized.
+[2022.03.11-13.56.37:130][570]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonExampleMap'.
+[2022.03.11-13.56.37:139][570]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.11-13.56.37:141][570]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.11-14.56.37
+[2022.03.11-13.56.37:141][570]LogWorld: Bringing up level for play took: 0.002379
+[2022.03.11-13.56.37:141][570]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.03.11-13.56.37:145][570]PIE: Server logged in
+[2022.03.11-13.56.37:147][570]PIE: Play in editor total start time 0,122 seconds.
+[2022.03.11-13.56.41:365][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.56.41:365][ 49]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.11-13.56.41:365][ 49]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-13.56.41:366][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.56.41:382][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-13.56.41:410][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-13.56.41:465][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-13.56.41:465][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.56.41:466][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-13.56.41:475][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.03.11-13.56.41:528][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.03.11-14.01.42:169][ 53]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/BP/AI/AI_BlackBoard.AI_BlackBoard. BB Key Selector will be set to 'Invalid'
+[2022.03.11-14.01.42:169][ 53]LogBehaviorTree: Warning: Wait Blackboard Time[5]> Failed to find key 'None' in BB asset BlackboardData /Game/BP/AI/AI_BlackBoard.AI_BlackBoard. BB Key Selector will be set to 'Invalid'
+[2022.03.11-14.02.58:843][173]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2022.03.11-14.02.58:846][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.082
+[2022.03.11-14.02.58:847][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/AI/AI_BehaviorTree] ([1] browsable assets)...
+[2022.03.11-14.02.58:847][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/AI/AI_BehaviorTree]
+[2022.03.11-14.02.58:852][173]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTree_Auto43F0D87B34DAA3A5E8BCFCD9478984540.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/Autosaves/Game/BP/AI/AI_BehaviorTree_Auto4.uasset'
+[2022.03.11-14.02.58:852][173]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.03.11-14.03.48:430][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.11-14.03.48:442][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AI/AI_BehaviorTree" FILE="../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset" SILENT=true
+[2022.03.11-14.03.48:447][112]LogSavePackage: Moving '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Saved/AI_BehaviorTree3B5F24C3483A1A3A042A08873742A5E5.tmp' to '../../../../../../Users/game2/Desktop/Darksoul/Darksoul/Content/BP/AI/AI_BehaviorTree.uasset'
+[2022.03.11-14.03.48:469][112]AssetCheck: New page: Asset Save: AI_BehaviorTree
+[2022.03.11-14.03.48:469][112]LogContentValidation: Display: Validating BehaviorTree /Game/BP/AI/AI_BehaviorTree.AI_BehaviorTree
