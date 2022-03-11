@@ -17,12 +17,20 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define Darksoul_Source_Darksoul_Public_CharStat_h_13_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execTakeDamage); \
+	DECLARE_FUNCTION(execSetOnFire); \
+	DECLARE_FUNCTION(execSetDeath); \
+	DECLARE_FUNCTION(execGetIsOnFire); \
+	DECLARE_FUNCTION(execGetIsAlive); \
 	DECLARE_FUNCTION(execGetHp);
 
 
 #define Darksoul_Source_Darksoul_Public_CharStat_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execTakeDamage); \
+	DECLARE_FUNCTION(execSetOnFire); \
+	DECLARE_FUNCTION(execSetDeath); \
+	DECLARE_FUNCTION(execGetIsOnFire); \
+	DECLARE_FUNCTION(execGetIsAlive); \
 	DECLARE_FUNCTION(execGetHp);
 
 
@@ -68,7 +76,11 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UCharStat)
 
 
-#define Darksoul_Source_Darksoul_Public_CharStat_h_13_PRIVATE_PROPERTY_OFFSET
+#define Darksoul_Source_Darksoul_Public_CharStat_h_13_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__m_alive() { return STRUCT_OFFSET(UCharStat, m_alive); } \
+	FORCEINLINE static uint32 __PPO__m_onFire() { return STRUCT_OFFSET(UCharStat, m_onFire); }
+
+
 #define Darksoul_Source_Darksoul_Public_CharStat_h_10_PROLOG
 #define Darksoul_Source_Darksoul_Public_CharStat_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

@@ -1,12 +1,18 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\game2\Desktop\Darksoul).
+  Parsing headers for DarksoulEditor
+    Running UnrealHeaderTool "C:\Users\game2\Desktop\Darksoul\Darksoul\Darksoul.uproject" "C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\DarksoulEditor\Development\DarksoulEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\game2\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for DarksoulEditor in 4,3568567 seconds
   Building DarksoulEditor...
   Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 12 processes...
-    [1/4] CharStat.cpp
-    [2/4] UE4Editor-Darksoul-0014.lib
-       Création de la bibliothèque C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.lib et de l'objet C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.exp
-    [3/4] UE4Editor-Darksoul-0014.dll
-       Création de la bibliothèque C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.suppressed.lib et de l'objet C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.suppressed.exp
-    [4/4] DarksoulEditor.target
-  Total time in Parallel executor: 1,55 seconds
-  Total execution time: 2,24 seconds
+  Building 6 actions with 12 processes...
+    [1/6] CharStat.cpp
+    [2/6] Darksoul.init.gen.cpp
+    [3/6] CharStat.gen.cpp
+    [4/6] UE4Editor-Darksoul-0022.lib
+       Création de la bibliothèque C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0022.lib et de l'objet C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0022.exp
+    [5/6] UE4Editor-Darksoul-0022.dll
+       Création de la bibliothèque C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0022.suppressed.lib et de l'objet C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0022.suppressed.exp
+    [6/6] DarksoulEditor.target
+  Total time in Parallel executor: 1,77 seconds
+  Total execution time: 6,94 seconds

@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeDarksoul_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x51CD67A1,
+				0x04ED4F54,
 				0x662FFB26,
 				METADATA_PARAMS(nullptr, 0)
 			};

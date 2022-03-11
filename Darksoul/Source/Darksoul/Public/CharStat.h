@@ -16,14 +16,41 @@ public:
 	// Sets default values for this component's properties
 	UCharStat();
 	
+	// VARIABLES
 	UPROPERTY(EditAnywhere, Category = "DATABASE")
-	int m_hp;
+		int m_hp;
+
+	// GETTER -----------------------------------
+	UFUNCTION(BlueprintCallable)
+		int GetHp();
 
 	UFUNCTION(BlueprintCallable)
-	int GetHp();
+		bool GetIsAlive();
+
 	UFUNCTION(BlueprintCallable)
-	void TakeDamage(int p_damage);
-	
+		bool GetIsOnFire();
+
+	UFUNCTION(BlueprintCallable)
+		bool GetAlive();
+
+	// SETTER -----------------------------------
+	UFUNCTION(BlueprintCallable)
+		void SetAlive(bool p_alive);
+
+	UFUNCTION(BlueprintCallable)
+		void SetOnFire(bool p_onFire);
+
+	// OTHER ------------------------------------
+	UFUNCTION(BlueprintCallable)
+		void TakeDamage(int p_damage);
+
+private:
+	// VARIABLES 
+	UPROPERTY()
+		bool m_alive;
+	UPROPERTY()
+		bool m_onFire;
+
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;

@@ -11,6 +11,8 @@ UCharStat::UCharStat()
 	PrimaryComponentTick.bCanEverTick = true;
 
 	m_hp = 10;
+	m_alive = true;
+	m_onFire = false;
 	// ...
 }
 
@@ -33,10 +35,37 @@ void UCharStat::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 	// ...
 }
 
+// GETTER --------------------------------
 int UCharStat::GetHp() {
 	return m_hp;
 }
 
+bool UCharStat::GetIsAlive() {
+	return m_alive;
+}
+
+bool UCharStat::GetIsOnFire() {
+	return m_onFire;
+}
+
+bool UCharStat::GetAlive() {
+	return m_alive;
+}
+
+// SETTER --------------------------------
+void UCharStat::SetAlive(bool p_alive) {
+	m_alive = p_alive;
+}
+
+void UCharStat::SetOnFire(bool p_onFire) {
+	m_onFire = p_onFire;
+}
+
+// OTHERS ---------------------------------
 void UCharStat::TakeDamage(int p_damage) {
 	m_hp -= p_damage;
+
+	if (m_hp <= 0) {
+		SetAlive(false);
+	}
 }
