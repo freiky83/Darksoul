@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Darksoul",
+			"Path": "C:\\Users\\game2\\Desktop\\Darksoul\\Darksoul\\Source\\Darksoul.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DarksoulEditor",
+			"Path": "C:\\Users\\game2\\Desktop\\Darksoul\\Darksoul\\Source\\DarksoulEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

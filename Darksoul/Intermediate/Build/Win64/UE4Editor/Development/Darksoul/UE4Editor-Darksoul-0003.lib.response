@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Darksoul-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\DarksoulEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\CharStat.cpp.obj"
+"C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\Darksoul.cpp.obj"
+"C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\CharStat.gen.cpp.obj"
+"C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\Darksoul.init.gen.cpp.obj"
+"C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\Default.rc2.res"
+/OUT:"C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0003.lib"

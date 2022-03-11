@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Darksoul.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{235823FC-6264-45E8-A9CE-6C0597AE1FEB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Darksoul.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DarksoulEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7DE6E75E-19B6-481A-B50C-B1FD15D24886}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Darksoul">
+      <UniqueIdentifier>{784C7662-865F-4D01-8B48-8023ABA0E29F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Darksoul\Darksoul.Build.cs">
+      <Filter>Source\Darksoul</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Darksoul\Darksoul.cpp">
+      <Filter>Source\Darksoul</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Darksoul\Darksoul.h">
+      <Filter>Source\Darksoul</Filter>
+    </ClInclude>
+    <Filter Include="Source\Darksoul\Private">
+      <UniqueIdentifier>{600CF77D-524D-4B3D-BC5D-76A739854BA6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Darksoul\Private\CharStat.cpp">
+      <Filter>Source\Darksoul\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Darksoul\Public">
+      <UniqueIdentifier>{2F9D9722-550A-4606-8F0D-60DB4638A9F0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Darksoul\Public\CharStat.h">
+      <Filter>Source\Darksoul\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\Definitions.Darksoul.h
+C:\Users\game2\Desktop\Darksoul\Darksoul\Source\Darksoul\Darksoul.h

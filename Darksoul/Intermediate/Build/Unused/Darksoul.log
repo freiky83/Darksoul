@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\game2\Desktop\Darksoul).
+  Building DarksoulEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] CharStat.cpp
+    [2/4] UE4Editor-Darksoul-0014.lib
+       Création de la bibliothèque C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.lib et de l'objet C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.exp
+    [3/4] UE4Editor-Darksoul-0014.dll
+       Création de la bibliothèque C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.suppressed.lib et de l'objet C:\Users\game2\Desktop\Darksoul\Darksoul\Intermediate\Build\Win64\UE4Editor\Development\Darksoul\UE4Editor-Darksoul-0014.suppressed.exp
+    [4/4] DarksoulEditor.target
+  Total time in Parallel executor: 1,55 seconds
+  Total execution time: 2,24 seconds
